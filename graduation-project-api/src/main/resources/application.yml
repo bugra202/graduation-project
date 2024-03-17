@@ -1,0 +1,24 @@
+spring:
+  profiles:
+    active: dev
+  application:
+    name: "graduation-project"
+---
+
+spring:
+  config:
+    activate:
+      on-profile: dev
+
+# LOGGING PROPERTIES
+logging:
+  level:
+    root: info
+    org:
+      apache: error
+    com:
+      bugratasdemir: debug
+
+# SERVER PROPERTIES
+server:
+  port: 8080

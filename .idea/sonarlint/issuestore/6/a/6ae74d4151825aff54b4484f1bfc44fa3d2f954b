@@ -1,0 +1,7 @@
+
+‡
+java:S1488""eImmediately return this expression instead of assigning it to the temporary variable "recommentDTOS".(ÍÕŞ™ùÿÿÿÿ8ÁÓ•Ìã1
+‚
+java:S1488_"`Immediately return this expression instead of assigning it to the temporary variable "distance".(­×ÇÁûÿÿÿÿ8İÓ²Ìã1
+o
+java:S6204J"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ª™¨¹8¡Ô•Ìã1

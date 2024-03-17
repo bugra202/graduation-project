@@ -1,0 +1,702 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="88efd15c-0c18-4250-862d-9273cbc2c2b3" name="Changes" comment="updated by all project">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExportToHTMLSettings">
+    <option name="OPEN_IN_BROWSER" value="true" />
+    <option name="OUTPUT_DIRECTORY" value="C:\Users\90543\Desktop\n11-bootcamp\graduation-project\htmlReport" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Record" />
+        <option value="Interface" />
+        <option value="Enum" />
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="KubernetesApiProvider">{
+  &quot;isMigrated&quot;: true
+}</component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2dKP3Dc4AsgNSxBfF2P1siUuWbR" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "JUnit.CommentControllerTest.executor": "Coverage",
+    "JUnit.CommentServiceImplTest.executor": "Coverage",
+    "JUnit.CommentServiceImplTest.save.executor": "Run",
+    "JUnit.CommentServiceImplTest.shouldValidDelete.executor": "Run",
+    "JUnit.CommentServiceImplTest.shouldValidUpdateTextAndScore.executor": "Run",
+    "JUnit.RestaurantServiceImplTest.testSave.executor": "Run",
+    "JUnit.UserControllerTest.delete.executor": "Debug",
+    "JUnit.UserControllerTest.executor": "Coverage",
+    "JUnit.UserControllerTest.shouldDelete.executor": "Debug",
+    "JUnit.UserControllerTest.shouldRestaurants.executor": "Run",
+    "JUnit.UserControllerTest.shouldSave.executor": "Debug",
+    "JUnit.UserControllerTest.shouldUpdate.executor": "Run",
+    "JUnit.UserControllerTest.testRestaurants.executor": "Run",
+    "JUnit.UserServiceImplTest.delete.executor": "Run",
+    "JUnit.UserServiceImplTest.executor": "Coverage",
+    "JUnit.UserServiceImplTest.save.executor": "Debug",
+    "JUnit.UserServiceImplTest.suggestRestaurant.executor": "Run",
+    "JUnit.UserServiceImplTest.update.executor": "Debug",
+    "Maven.graduation-project [clean].executor": "Run",
+    "Maven.graduation-project [install].executor": "Run",
+    "Maven.graduation-project [package].executor": "Run",
+    "Maven.graduation-project-api [clean].executor": "Run",
+    "Maven.graduation-project-api [install].executor": "Run",
+    "Maven.graduation-project-core [clean].executor": "Run",
+    "Maven.graduation-project-core [install].executor": "Run",
+    "Maven.graduation-project-core [package].executor": "Run",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SONARLINT_PRECOMMIT_ANALYSIS": "true",
+    "Spring Boot.GraduationProjectApiApplication.executor": "Debug",
+    "Spring Boot.GraduationProjectApplication.executor": "Debug",
+    "Spring Boot.GraduationProjectCoreApplication.executor": "Debug",
+    "Spring Boot.GraduationProjectLoggerApplication.executor": "Debug",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/90543/Desktop/n11-bootcamp/graduation-project-n11",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "run.configurations.included.in.services": "true",
+    "settings.editor.selected.configurable": "reference.settings.project.maven.archetype.catalogs",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\90543\Desktop\n11-bootcamp\graduation-project\graduation-project-api\src\main\java\com\bugratasdemir\graduationprojectapi" />
+      <recent name="C:\Users\90543\Desktop\n11-bootcamp\graduation-project\graduation-project-logger\src\main\resources" />
+      <recent name="C:\Users\90543\Desktop\n11-bootcamp\graduation-project\graduation-project-core" />
+      <recent name="C:\Users\90543\Desktop\n11-bootcamp\graduation-project\graduation-project-api\src\main\java\com\bugratasdemir\graduationprojectapi\dto" />
+      <recent name="C:\Users\90543\Desktop\n11-bootcamp\graduation-project\graduation-project-api\src\main\resources" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\90543\Desktop\n11-bootcamp\graduation-project" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.bugratasdemir.graduationproject.controller" />
+      <recent name="com.bugratasdemir.graduationproject.service.impl" />
+      <recent name="com.bugratasdemir.graduationprojectapi.service.impl" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.bugratasdemir.graduationproject.controller" />
+      <recent name="com.bugratasdemir.graduationproject.faker" />
+      <recent name="com.bugratasdemir.graduationprojectlogger.consumer" />
+      <recent name="com.bugratasdemir.graduationprojectlogger.enums" />
+      <recent name="com.bugratasdemir.graduationprojectlogger.entity" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="MicronautRunConfigurationType" />
+        <option value="QuarkusRunConfigurationType" />
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.CommentControllerTest">
+    <configuration name="CommentControllerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="graduation-project-core" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bugratasdemir.graduationproject.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.bugratasdemir.graduationproject.controller" />
+      <option name="MAIN_CLASS_NAME" value="com.bugratasdemir.graduationproject.controller.CommentControllerTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserControllerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="graduation-project-core" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bugratasdemir.graduationproject.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.bugratasdemir.graduationproject.controller" />
+      <option name="MAIN_CLASS_NAME" value="com.bugratasdemir.graduationproject.controller.UserControllerTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserControllerTest.delete" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="graduation-project-core" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bugratasdemir.graduationproject.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.bugratasdemir.graduationproject.controller" />
+      <option name="MAIN_CLASS_NAME" value="com.bugratasdemir.graduationproject.controller.UserControllerTest" />
+      <option name="METHOD_NAME" value="delete" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserControllerTest.shouldDelete" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="graduation-project-core" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bugratasdemir.graduationproject.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.bugratasdemir.graduationproject.controller" />
+      <option name="MAIN_CLASS_NAME" value="com.bugratasdemir.graduationproject.controller.UserControllerTest" />
+      <option name="METHOD_NAME" value="shouldDelete" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserControllerTest.shouldRestaurants" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="graduation-project-core" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bugratasdemir.graduationproject.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.bugratasdemir.graduationproject.controller" />
+      <option name="MAIN_CLASS_NAME" value="com.bugratasdemir.graduationproject.controller.UserControllerTest" />
+      <option name="METHOD_NAME" value="shouldRestaurants" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GraduationProjectApiApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="17" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="graduation-project-api" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.bugratasdemir.graduationprojectapi.GraduationProjectApiApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GraduationProjectCoreApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="graduation-project-core" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.bugratasdemir.graduationproject.GraduationProjectCoreApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GraduationProjectLoggerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="graduation-project-logger" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.bugratasdemir.graduationprojectlogger.GraduationProjectLoggerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.CommentControllerTest" />
+      <item itemvalue="JUnit.UserControllerTest" />
+      <item itemvalue="JUnit.UserControllerTest.delete" />
+      <item itemvalue="JUnit.UserControllerTest.shouldDelete" />
+      <item itemvalue="JUnit.UserControllerTest.shouldRestaurants" />
+      <item itemvalue="Spring Boot.GraduationProjectLoggerApplication" />
+      <item itemvalue="Spring Boot.GraduationProjectApiApplication" />
+      <item itemvalue="Spring Boot.GraduationProjectCoreApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.CommentControllerTest" />
+        <item itemvalue="JUnit.UserControllerTest" />
+        <item itemvalue="JUnit.UserControllerTest.shouldDelete" />
+        <item itemvalue="JUnit.UserControllerTest.delete" />
+        <item itemvalue="JUnit.UserControllerTest.shouldRestaurants" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="88efd15c-0c18-4250-862d-9273cbc2c2b3" name="Changes" comment="" />
+      <created>1709753600663</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1709753600663</updated>
+      <workItem from="1709753601783" duration="250000" />
+      <workItem from="1709753862532" duration="14906000" />
+      <workItem from="1710100746773" duration="27155000" />
+      <workItem from="1710285075248" duration="13062000" />
+      <workItem from="1710535251862" duration="59074000" />
+      <workItem from="1710668438088" duration="28000" />
+    </task>
+    <task id="LOCAL-00001" summary="updated by all project">
+      <option name="closed" value="true" />
+      <created>1710112397846</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1710112397846</updated>
+    </task>
+    <task id="LOCAL-00002" summary="updated by all project">
+      <option name="closed" value="true" />
+      <created>1710112454256</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1710112454256</updated>
+    </task>
+    <task id="LOCAL-00003" summary="updated by all project">
+      <option name="closed" value="true" />
+      <created>1710284379916</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1710284379917</updated>
+    </task>
+    <task id="LOCAL-00004" summary="updated by all project">
+      <option name="closed" value="true" />
+      <created>1710366279861</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1710366279862</updated>
+    </task>
+    <task id="LOCAL-00005" summary="updated by all project">
+      <option name="closed" value="true" />
+      <created>1710664521230</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1710664521231</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="updated by all project" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated by all project" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/graduation-project-api/src/main/java/com/bugratasdemir/graduationprojectapi/controller/RestaurantController.java</url>
+          <line>61</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/graduation-project-api/src/main/java/com/bugratasdemir/graduationprojectapi/controller/RestaurantController.java</url>
+          <line>62</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/graduation-project-api/src/main/java/com/bugratasdemir/graduationprojectapi/service/impl/RestaurantServiceImpl.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/graduation-project-api/src/main/java/com/bugratasdemir/graduationprojectapi/service/impl/RestaurantServiceImpl.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/graduation-project-api/src/main/java/com/bugratasdemir/graduationprojectapi/service/impl/RestaurantServiceImpl.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/graduation-project-core/src/main/java/com/bugratasdemir/graduationproject/controller/UserController.java</url>
+          <line>112</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/graduation-project-core/src/main/java/com/bugratasdemir/graduationproject/controller/CommentController.java</url>
+          <line>62</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/graduation-project-core/src/main/java/com/bugratasdemir/graduationproject/service/impl/CommentServiceImpl.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/graduation-project-api/src/main/java/com/bugratasdemir/graduationprojectapi/controller/RecommentController.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/graduation-project-core/src/main/java/com/bugratasdemir/graduationproject/controller/UserController.java</url>
+          <line>111</line>
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/graduation-project-core/src/main/java/com/bugratasdemir/graduationproject/service/impl/UserServiceImpl.java</url>
+          <line>69</line>
+          <option name="timeStamp" value="46" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/graduation-project-core/src/main/java/com/bugratasdemir/graduationproject/service/impl/UserServiceImpl.java</url>
+          <line>73</line>
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/graduation-project-api/src/main/java/com/bugratasdemir/graduationprojectapi/service/impl/RecommentServiceImpl.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="55" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/graduation-project-api/src/main/java/com/bugratasdemir/graduationprojectapi/service/impl/RecommentServiceImpl.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="56" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/graduation-project-api/src/main/java/com/bugratasdemir/graduationprojectapi/service/impl/RecommentServiceImpl.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="57" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/graduation-project-api/src/main/java/com/bugratasdemir/graduationprojectapi/service/impl/RecommentServiceImpl.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="58" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/graduation-project-api/src/main/java/com/bugratasdemir/graduationprojectapi/service/impl/RecommentServiceImpl.java</url>
+          <line>39</line>
+          <option name="timeStamp" value="59" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/graduation-project-api/src/main/java/com/bugratasdemir/graduationprojectapi/service/impl/RecommentServiceImpl.java</url>
+          <line>51</line>
+          <option name="timeStamp" value="60" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/graduation-project-api/src/main/java/com/bugratasdemir/graduationprojectapi/service/impl/RecommentServiceImpl.java</url>
+          <line>63</line>
+          <option name="timeStamp" value="61" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/graduation-project-api/src/main/java/com/bugratasdemir/graduationprojectapi/service/impl/RecommentServiceImpl.java</url>
+          <line>70</line>
+          <option name="timeStamp" value="62" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/graduation-project-api/src/main/java/com/bugratasdemir/graduationprojectapi/service/impl/RecommentServiceImpl.java</url>
+          <line>75</line>
+          <option name="timeStamp" value="63" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/graduation-project-api/src/main/java/com/bugratasdemir/graduationprojectapi/service/impl/RecommentServiceImpl.java</url>
+          <line>94</line>
+          <option name="timeStamp" value="64" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/graduation-project-api/src/main/java/com/bugratasdemir/graduationprojectapi/service/impl/RecommentServiceImpl.java</url>
+          <line>47</line>
+          <option name="timeStamp" value="65" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/graduation-project-core/src/main/java/com/bugratasdemir/graduationproject/service/impl/UserServiceImpl.java</url>
+          <line>50</line>
+          <properties>
+            <option name="lambda-ordinal" value="-1" />
+          </properties>
+          <option name="timeStamp" value="69" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/graduation-project-core/src/main/java/com/bugratasdemir/graduationproject/general/GeneralControllerAdvice.java</url>
+          <line>46</line>
+          <option name="timeStamp" value="71" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/graduation-project-core/src/main/java/com/bugratasdemir/graduationproject/general/GeneralControllerAdvice.java</url>
+          <line>48</line>
+          <option name="timeStamp" value="72" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/graduation-project-logger/src/main/java/com/bugratasdemir/graduationprojectlogger/consumer/KafkaConsumer.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="74" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/graduation-project-api/src/main/java/com/bugratasdemir/graduationprojectapi/controller/RestaurantController.java</url>
+          <line>67</line>
+          <option name="timeStamp" value="75" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/graduation-project-api/src/main/java/com/bugratasdemir/graduationprojectapi/service/impl/RestaurantServiceImpl.java</url>
+          <line>59</line>
+          <option name="timeStamp" value="77" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/graduation-project-api/src/main/java/com/bugratasdemir/graduationprojectapi/controller/RestaurantController.java</url>
+          <line>68</line>
+          <option name="timeStamp" value="78" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/graduation-project-api/src/main/java/com/bugratasdemir/graduationprojectapi/service/impl/RestaurantServiceImpl.java</url>
+          <line>56</line>
+          <option name="timeStamp" value="79" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/graduation-project-api/src/main/java/com/bugratasdemir/graduationprojectapi/service/impl/RestaurantServiceImpl.java</url>
+          <line>53</line>
+          <option name="timeStamp" value="80" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/graduation-project-api/src/main/java/com/bugratasdemir/graduationprojectapi/controller/RestaurantController.java</url>
+          <line>101</line>
+          <option name="timeStamp" value="81" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/graduation-project-api/src/main/java/com/bugratasdemir/graduationprojectapi/service/impl/RestaurantServiceImpl.java</url>
+          <line>41</line>
+          <option name="timeStamp" value="82" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/graduation-project-api/src/main/java/com/bugratasdemir/graduationprojectapi/service/impl/RestaurantServiceImpl.java</url>
+          <line>39</line>
+          <properties>
+            <option name="lambda-ordinal" value="-1" />
+          </properties>
+          <option name="timeStamp" value="83" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/graduation-project-core/src/main/java/com/bugratasdemir/graduationproject/controller/UserController.java</url>
+          <line>67</line>
+          <option name="timeStamp" value="85" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/graduation-project-core/src/main/java/com/bugratasdemir/graduationproject/service/impl/UserServiceImpl.java</url>
+          <line>41</line>
+          <option name="timeStamp" value="86" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/graduation-project-core/src/main/java/com/bugratasdemir/graduationproject/controller/UserController.java</url>
+          <line>105</line>
+          <option name="timeStamp" value="87" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/graduation-project-core/src/main/java/com/bugratasdemir/graduationproject/service/impl/UserServiceImpl.java</url>
+          <line>59</line>
+          <option name="timeStamp" value="88" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/graduation-project-core/src/main/java/com/bugratasdemir/graduationproject/controller/UserController.java</url>
+          <line>117</line>
+          <option name="timeStamp" value="89" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/graduation-project-core/src/main/java/com/bugratasdemir/graduationproject/controller/CommentController.java</url>
+          <line>94</line>
+          <option name="timeStamp" value="90" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/graduation-project-core/src/test/java/com/bugratasdemir/graduationproject/service/impl/UserServiceImplTest.java</url>
+          <line>69</line>
+          <option name="timeStamp" value="92" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/graduation-project-core/src/test/java/com/bugratasdemir/graduationproject/service/impl/UserServiceImplTest.java</url>
+          <line>73</line>
+          <option name="timeStamp" value="93" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/graduation-project-core/src/test/java/com/bugratasdemir/graduationproject/service/impl/UserServiceImplTest.java</url>
+          <line>53</line>
+          <option name="timeStamp" value="94" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/graduation-project-core/src/test/java/com/bugratasdemir/graduationproject/service/impl/UserServiceImplTest.java</url>
+          <line>49</line>
+          <option name="timeStamp" value="95" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/graduation-project-core/src/test/java/com/bugratasdemir/graduationproject/service/impl/UserServiceImplTest.java</url>
+          <line>46</line>
+          <option name="timeStamp" value="96" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/graduation-project-core/src/test/java/com/bugratasdemir/graduationproject/service/impl/UserServiceImplTest.java</url>
+          <line>106</line>
+          <option name="timeStamp" value="98" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/graduation-project-core/src/test/java/com/bugratasdemir/graduationproject/service/impl/UserServiceImplTest.java</url>
+          <line>102</line>
+          <option name="timeStamp" value="99" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/graduation-project-core/src/test/java/com/bugratasdemir/graduationproject/service/impl/UserServiceImplTest.java</url>
+          <line>108</line>
+          <option name="timeStamp" value="106" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/graduation-project-core/src/main/java/com/bugratasdemir/graduationproject/service/impl/UserServiceImpl.java</url>
+          <line>67</line>
+          <option name="timeStamp" value="107" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/graduation-project-core/src/test/java/com/bugratasdemir/graduationproject/service/impl/UserServiceImplTest.java</url>
+          <line>111</line>
+          <option name="timeStamp" value="108" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/graduation-project-core/src/test/java/com/bugratasdemir/graduationproject/service/impl/UserServiceImplTest.java</url>
+          <line>114</line>
+          <option name="timeStamp" value="109" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/graduation-project-core/src/test/java/com/bugratasdemir/graduationproject/service/impl/UserServiceImplTest.java</url>
+          <line>117</line>
+          <option name="timeStamp" value="111" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/graduation-project-core/src/test/java/com/bugratasdemir/graduationproject/service/impl/UserServiceImplTest.java</url>
+          <line>118</line>
+          <option name="timeStamp" value="112" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/graduation-project-core/src/test/java/com/bugratasdemir/graduationproject/service/impl/UserServiceImplTest.java</url>
+          <line>119</line>
+          <option name="timeStamp" value="113" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/graduation-project-core/src/test/java/com/bugratasdemir/graduationproject/controller/UserControllerTest.java</url>
+          <line>62</line>
+          <option name="timeStamp" value="115" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/graduation-project-core/src/test/java/com/bugratasdemir/graduationproject/controller/UserControllerTest.java</url>
+          <line>79</line>
+          <option name="timeStamp" value="117" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/graduation-project-core/src/test/java/com/bugratasdemir/graduationproject/controller/UserControllerTest.java</url>
+          <line>87</line>
+          <option name="timeStamp" value="118" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/graduation-project-core/src/test/java/com/bugratasdemir/graduationproject/controller/UserControllerTest.java</url>
+          <line>98</line>
+          <option name="timeStamp" value="119" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/graduation-project-core/src/test/java/com/bugratasdemir/graduationproject/controller/UserControllerTest.java</url>
+          <line>111</line>
+          <option name="timeStamp" value="125" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/graduation-project-core/src/test/java/com/bugratasdemir/graduationproject/controller/CommentControllerTest.java</url>
+          <line>68</line>
+          <option name="timeStamp" value="127" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/graduation-project-core/src/test/java/com/bugratasdemir/graduationproject/controller/CommentControllerTest.java</url>
+          <line>72</line>
+          <option name="timeStamp" value="128" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/graduation-project-core/src/test/java/com/bugratasdemir/graduationproject/controller/CommentControllerTest.java</url>
+          <line>75</line>
+          <option name="timeStamp" value="129" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/graduation-project-core/src/main/java/com/bugratasdemir/graduationproject/controller/UserController.java</url>
+          <line>66</line>
+          <option name="timeStamp" value="131" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/graduation-project-core/src/main/java/com/bugratasdemir/graduationproject/controller/CommentController.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="133" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/graduation-project-core/src/main/java/com/bugratasdemir/graduationproject/controller/CommentController.java</url>
+          <line>73</line>
+          <option name="timeStamp" value="134" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/graduation-project-core/src/main/java/com/bugratasdemir/graduationproject/client/RecommentApi.java</url>
+          <line>16</line>
+          <properties class="com.bugratasdemir.graduationproject.client.RecommentApi" method="recomments">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo parentTag="java.lang.String" memberName="hashIsZero" />
+        <PinnedItemInfo parentTag="org.springframework.data.solr.core.query.result.SolrResultPage" memberName="total" />
+      </pinned-members>
+    </pin-to-top-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/graduation_project$UserServiceImplTest.ic" NAME="UserServiceImplTest Coverage Results" MODIFIED="1710636618856" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.bugratasdemir.graduationproject.service.impl.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/graduation_project$UserControllerTest.ic" NAME="UserControllerTest Coverage Results" MODIFIED="1710644522993" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.bugratasdemir.graduationproject.controller.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/graduation_project$CommentServiceImplTest.ic" NAME="CommentServiceImplTest Coverage Results" MODIFIED="1710636539417" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.bugratasdemir.graduationproject.service.impl.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/graduation_project$CommentControllerTest.ic" NAME="CommentControllerTest Coverage Results" MODIFIED="1710645235348" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.bugratasdemir.graduationproject.controller.*</FILTER>
+    </SUITE>
+  </component>
+</project>

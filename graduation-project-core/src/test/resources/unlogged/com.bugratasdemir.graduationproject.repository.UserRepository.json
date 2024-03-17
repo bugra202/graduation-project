@@ -1,0 +1,28 @@
+{
+  "classname" : "com.bugratasdemir.graduationproject.repository.UserRepository",
+  "storedCandidateMap" : { },
+  "declaredMockMap" : {
+    "com.bugratasdemir.graduationproject.repository.UserRepository#save#(Ljava/lang/Object;)Ljava/lang/Object;" : [ {
+      "id" : "2fb82625-0214-4b6f-83e2-2ebaaddeca5a",
+      "name" : "mock response userRepository.save",
+      "fieldTypeName" : "com.bugratasdemir.graduationproject.repository.UserRepository",
+      "sourceClassName" : "com.bugratasdemir.graduationproject.service.impl.UserServiceImpl",
+      "fieldName" : "userRepository",
+      "methodName" : "save",
+      "whenParameter" : [ {
+        "name" : "entity",
+        "type" : "TRUE",
+        "value" : "com.bugratasdemir.graduationproject.entity.User"
+      } ],
+      "thenParameter" : [ {
+        "returnParameter" : {
+          "declaredMocks" : [ ],
+          "value" : "{}",
+          "returnValueType" : "REAL",
+          "className" : "java.lang.Object"
+        },
+        "methodExitType" : "NORMAL"
+      } ]
+    } ]
+  }
+}

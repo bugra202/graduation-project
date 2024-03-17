@@ -1,0 +1,39 @@
+spring:
+  profiles:
+    active: dev
+  application:
+    name: "graduation-project"
+---
+
+spring:
+  config:
+    activate:
+      on-profile: dev
+  # JPA
+  jpa:
+    hibernate:
+      ddl-auto: create-drop
+    show-sql: true
+    generate-ddl: true
+  # KAFKA
+  kafka:
+    producer:
+      bootstrap-servers: localhost:9092
+      key-serializer: org.apache.kafka.common.serialization.StringSerializer
+      value-serializer: org.apache.kafka.common.serialization.StringSerializer
+
+# LOGGING PROPERTIES
+logging:
+  level:
+    root: info
+    org:
+      apache: error
+    com:
+      bugratasdemir: debug
+
+# SERVER PROPERTIES
+server:
+  port: 8081
+
+# CLIENT BASE URL
+baseURL: http://localhost:8080/api/v1/recomments
