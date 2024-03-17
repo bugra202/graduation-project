@@ -34,7 +34,7 @@ Install and run Docker on your computer
 
 * First, we go to the lifecyle section in the graduation-project section from Maven and perform the clean and then install process.
 
-![image](https://github.com/bugra202/graduation-project/assets/117045544/f86e90a7-474c-4d1f-a966-41f1ffcaa228)
+![image](https://github.com/bugra202/graduation-project/assets/117045544/48d28aa4-bca7-4654-8e7d-85bc810577f5)
 
 * Then in the services section we have three services. It is recommended to run the GraduationProjectCoreApplication service first, as docker-compose will create the containers by pulling the required images from docker hub. You can then run other services regardless of their order.
 
