@@ -22,7 +22,7 @@ First, clone the project from GitHub to copy it to your local computer:
 
 Paste the cloning link you copied from the link above into the URL section by clicking file -> new -> Project from version control and click clone.
 
-![image](https://github.com/bugra202/graduation-project/assets/117045544/90b4babe-5b15-4392-9ced-70df1f421e55)
+![image](https://github.com/bugra202/graduation-project/assets/117045544/3ec7db44-a468-4907-845f-60aaab5970cc)
 
 **3.Install Docker**
 
