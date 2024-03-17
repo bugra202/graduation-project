@@ -6,6 +6,10 @@
   <component name="ChangeListManager">
     <list default="true" id="88efd15c-0c18-4250-862d-9273cbc2c2b3" name="Changes" comment="updated by all project">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/logs/solr.log" beforeDir="false" afterPath="$PROJECT_DIR$/data/logs/solr.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/logs/solr_gc.log" beforeDir="false" afterPath="$PROJECT_DIR$/data/logs/solr_gc.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/graduation-project-core/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/graduation-project-core/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/graduation-project-logger/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/graduation-project-logger/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +54,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "JUnit.CommentControllerTest.executor": "Coverage",
+    "JUnit.CommentControllerTest.executor": "Run",
     "JUnit.CommentServiceImplTest.executor": "Coverage",
     "JUnit.CommentServiceImplTest.save.executor": "Run",
     "JUnit.CommentServiceImplTest.shouldValidDelete.executor": "Run",
@@ -277,6 +281,7 @@
       <workItem from="1710285075248" duration="13062000" />
       <workItem from="1710535251862" duration="59074000" />
       <workItem from="1710668438088" duration="28000" />
+      <workItem from="1710669121260" duration="4071000" />
     </task>
     <task id="LOCAL-00001" summary="updated by all project">
       <option name="closed" value="true" />
